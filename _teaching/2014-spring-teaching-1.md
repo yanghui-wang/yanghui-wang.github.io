@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Reader for [PIC 10C](https://zuma.pic.ucla.edu/courses/PIC_10C.shtml): Advanced Programming (C++)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
@@ -7,5 +7,3 @@ venue: "UCLA, Department of Mathematics"
 date: 2018-10-01
 location: "Los Angeles, CA"
 ---
-
-description 
