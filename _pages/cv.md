@@ -17,17 +17,13 @@ Education
 
 Work experience
 ======
-* PwC - Financial Crime Technology and Data Analytics
-  * London, UK \| Sep.2022 – Present
+* PwC - Financial Crime Technology and Data Analytics. *London, UK \| Sep.2022 – Present*
 
-* Tencent - AI Platform Product Manager
-  * Shanghai, China \| Dec.2020 – July.2021
+* Tencent - AI Platform Product Manager. *Shanghai, China \| Dec.2020 – July.2021*
 
-* Using.AI \| Bell Information Technology Inc. – Machine Learning Researcher
-  * Shenzhen, China \| Jul.2020 – Nov.2020
+* Using.AI \| Bell Information Technology Inc. – Machine Learning Researcher. *Shenzhen, China \| Jul.2020 – Nov.2020*
  
-* Protagonist - Data Analyst
-  * Los Angeles, US \| Mar.2019 – Jun.2019
+* Protagonist - Data Analyst. *Los Angeles, US \| Mar.2019 – Jun.2019*
   
 Skills
 ======
@@ -45,12 +41,13 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
+<!--
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+  -->
   
 Teaching
 ======
@@ -58,7 +55,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-
+<!--
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+>>
