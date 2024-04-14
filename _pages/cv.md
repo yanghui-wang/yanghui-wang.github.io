@@ -17,29 +17,28 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* PwC – Financial Crime Technology and Data Analytics
+  * London, UK | Sep.2022 – Present
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Tencent – AI Platform Product Manager
+  * Shanghai, China | Dec.2020 – July.2021
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Using.AI | Bell Information Technology Inc. – Machine Learning Researcher
+  * Shenzhen, China | Jul.2020 – Nov.2020
+ 
+* Protagonist – Data Analyst
+  * Los Angeles, US | Mar.2019 – Jun.2019
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Python, R, SQL, C++, TensorFlow, Pytorch, MATLAB, HTML/CSS, LaTeX, SAS, Linux.
+* Software: Spyder, Jupiter Notebook, XCode, PyCharm, Tableau, MySQL, PostGRE SQL, Scala/Spark, Final Cut Pro.
+* Languages: Mandarin (Native proficiency), English (Professional proficiency), French (Elementary proficiency).
+* Professional Qualifications: Association of Certified Anti-Money Laundering Specialists (ACAMS) – blockchain and virtual crypto
+currency. CFA Level I Candidate. WSET Level 2 Award in Wines. Associate of Trinity College London (ATCL) – Piano
+Performance Diploma.
+* Interests: Poker, Classical Piano, Boxing, Video Editing, Meditation, Yoga.
+
 
 Publications
 ======
@@ -58,7 +57,8 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  [PIC 10C](https://zuma.pic.ucla.edu/courses/PIC_10C.shtml): Advanced Programming (C++) 
+
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
