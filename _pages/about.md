@@ -11,4 +11,4 @@ I'm currently a financial crime data consultant at PwC London. Prior to that, I 
 
 My research interest lies in Explainable AI (XAI) in Finance, Regtech and Fintech. 
 
-You can find my CV on the tab above or download it here: [Yanghui Wang's Curriculum Vitae](./assets/Wang_CV.pdf)
+You can find my CV on the tab above or download it here: [Yanghui Wang's Curriculum Vitae](./files/Wang_CV.pdf)
