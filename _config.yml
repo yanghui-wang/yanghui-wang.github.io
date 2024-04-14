@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yanghui Wang's Personal Homepage"
+title                    : "Yanghui Wang / Personal Site"
 title_separator          : "-"
 name                     : &name "Yanghui Wang (王扬慧)"
 description              : &description "Yanghui Wang"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile1.png"
   name             : "Yanghui Wang (王扬慧)"
   pronouns         : # example: "she/her"  
-  bio              : "Hi! You've found me :)"
+  bio              : "Hi. You've found me :)"
   location         : "London, UK"
   employer         : "PwC"
   uri              : # URL
