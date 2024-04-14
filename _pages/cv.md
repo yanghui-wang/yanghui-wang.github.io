@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+
+     
+      
 Education
 ======
 * M.S. in Statistical Science,  University of Oxford, 2022
