@@ -6,5 +6,5 @@ permalink: /teaching/2014-spring-teaching-1
 venue: "UCLA, Department of Mathematics"
 date: 2018/10 - 2018/12
 location: "Los Angeles, CA"
-link: https://zuma.pic.ucla.edu/courses/PIC_10C.shtml
+link: [link](https://zuma.pic.ucla.edu/courses/PIC_10C.shtml)
 ---
