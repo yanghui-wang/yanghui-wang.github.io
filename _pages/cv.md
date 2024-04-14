@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Statistical Science,  University of Oxford, 2022
+* B.S. in Applied Mathematics, University of California, Los Angeles (UCLA), 2020
+* B.S. in Statistics, University of California, Los Angeles (UCLA), 2020
 
 Work experience
 ======
@@ -46,7 +46,7 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -58,7 +58,7 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+  [PIC 10C](https://zuma.pic.ucla.edu/courses/PIC_10C.shtml): Advanced Programming (C++) 
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
