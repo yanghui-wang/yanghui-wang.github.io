@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yanghui Wang / Personal Site"
+title                    : "Chloe (Yanghui) Wang / Personal Site"
 title_separator          : "-"
-name                     : &name "Yanghui Wang (王扬慧)"
-description              : &description "Yanghui Wang"
+name                     : &name "Chloe (Yanghui) Wang (王扬慧)"
+description              : &description "Chloe (Yanghui) Wang"
 url                      : https://yanghui-wang.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile1.png"
-  name             : "Yanghui Wang (王扬慧)"
+  name             : "Chloe (Yanghui) Wang (王扬慧)"
   pronouns         : # example: "she/her"  
   bio              : "Hi. You've found me :)"
-  location         : "London, UK"
-  employer         : "PwC"
+  location         : "Hong Kong"
+  employer         : "CUHK Business School"
   uri              : # URL
   email            : "yanghuiwang1998@gmail.com" 
 
