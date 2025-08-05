@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Chloe (Yanghui) Wang / Personal Site"
 title_separator          : "-"
-name                     : &name "Chloe (Yanghui) Wang (王扬慧)"
+name                     : &name "王扬慧 Chloe"
 description              : &description "Chloe (Yanghui) Wang"
 url                      : https://yanghui-wang.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
